@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketApp", "MarketApp\MarketApp.csproj", "{A809C23B-D078-4269-976F-DE0704D1EE1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketAppTest", "MarketAppTest\MarketAppTest.csproj", "{235566FD-8AEA-45D9-AE38-CA9C6EBDE343}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarketLibrary", "MarketLibrary\MarketLibrary.csproj", "{2187700E-8315-4BBE-A3C8-FC4A0F26D1F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A809C23B-D078-4269-976F-DE0704D1EE1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A809C23B-D078-4269-976F-DE0704D1EE1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A809C23B-D078-4269-976F-DE0704D1EE1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A809C23B-D078-4269-976F-DE0704D1EE1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{235566FD-8AEA-45D9-AE38-CA9C6EBDE343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235566FD-8AEA-45D9-AE38-CA9C6EBDE343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235566FD-8AEA-45D9-AE38-CA9C6EBDE343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235566FD-8AEA-45D9-AE38-CA9C6EBDE343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2187700E-8315-4BBE-A3C8-FC4A0F26D1F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2187700E-8315-4BBE-A3C8-FC4A0F26D1F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2187700E-8315-4BBE-A3C8-FC4A0F26D1F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2187700E-8315-4BBE-A3C8-FC4A0F26D1F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
