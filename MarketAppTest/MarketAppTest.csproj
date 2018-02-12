@@ -55,6 +55,10 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\MarketAPI\MarketAPI.csproj">
+      <Project>{1a9f4fb8-d80b-422b-a8aa-8eede3121c20}</Project>
+      <Name>MarketAPI</Name>
+    </ProjectReference>
     <ProjectReference Include="..\MarketLibrary\MarketLibrary.csproj">
       <Project>{2187700e-8315-4bbe-a3c8-fc4a0f26d1f7}</Project>
       <Name>MarketLibrary</Name>
